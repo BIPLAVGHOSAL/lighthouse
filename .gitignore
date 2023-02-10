@@ -1,0 +1,26 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+.DS_Store
+# dependencies
+/node_modules
+/.vscode
+
+# compiled test-runner
+/mochawesome-report
+/results
+
+/cypress/results/*
+/results
+/log/*
+/results/*
+/output*
+/cypress/**/videos/*
+/cypress/**/screenshots/*
+secrets.js
+
+npm_install_debug.log
+
+/allure-report
+/allure-results
+
+cucumber-messages.ndjson
+cucumber-report.html

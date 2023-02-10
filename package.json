@@ -1,0 +1,16 @@
+{
+  "name": "lighthouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node lib/lighthouseWrapper.js",
+    "mobile": "deviceType=mobile node lib/lighthouseWrapper.js"
+  },
+  "author": "Biplav",
+  "license": "ISC",
+  "devDependencies": {
+    "lighthouse": "^9.6.8"
+  }
+}
