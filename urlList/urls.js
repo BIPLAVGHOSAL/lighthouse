@@ -6,15 +6,3 @@ const urlList = [
 ]
 
 export { urlList }
-
-
-
-
-
-
-
-
-
-
-
-
