@@ -12,7 +12,7 @@ Using Lighthouse programatically
 
 ```
 
-### How to execute Lighthouse 
+### How to execute Lighthouse 
 
 ```bash
 
