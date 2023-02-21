@@ -5,12 +5,13 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "node lib/lighthouseWrapper.js",
+    "test": "env-cmd node lib/lighthouseWrapper.js",
     "mobile": "deviceType=mobile node lib/lighthouseWrapper.js"
   },
   "author": "Biplav",
   "license": "ISC",
   "devDependencies": {
-    "lighthouse": "^9.6.8"
+    "lighthouse": "^9.6.8",
+    "env-cmd": "10.1.0"
   }
 }

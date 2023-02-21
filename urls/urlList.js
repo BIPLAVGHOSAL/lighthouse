@@ -1,45 +1,68 @@
 const urlList = [
     {
-        pageName: 'BritishGas-HomePage',
-        url: 'https://www.britishgas.co.uk/'
+        pageName: 'Hive-HomePage',
+        url: 'https://www.hivehome.com/'
     },
-    {
-        pageName: 'Energy-LandingPage',
-        url: 'https://www.britishgas.co.uk/energy/gas-and-electricity.html'
-    },
-    {
-        pageName: 'Energy-PriceCap',
-        url: 'https://www.britishgas.co.uk/energy/price-cap.html'
-    },
-    {
-        pageName: 'Services-LandingPage',
-        url: 'https://www.britishgas.co.uk/home-services/boilers-and-heating/boiler-and-heating-cover.html?excess=60'
-    },
-    {
-        pageName: 'Boiler&Heating-LandingPage',
-        url: 'https://www.britishgas.co.uk/home-services/boilers-and-heating/boiler-and-heating-repair.html'
-    },
-    {
-        pageName: 'SmartHome-LandingPage',
-        url: 'https://www.britishgas.co.uk/smart-home.html'
-    },
-    {
-        pageName: 'GrrenerLiving-LandingPage',
-        url: 'https://www.britishgas.co.uk/smart-home/greener-homes.html'
-    },
-    {
-        pageName: 'Offers-LandingPage',
-        url: 'https://www.britishgas.co.uk/offers.html'
-    },
-    {
-        pageName: 'MyAccount-LandingPage',
-        url: 'https://www.britishgas.co.uk/my-account.html'
-    },
-    {
-        pageName: 'Help&Support-LandingPage',
-        url: 'https://www.britishgas.co.uk/help-and-support/'
-    }
+    // {
+    //     pageName: 'Hive-PersonalInfo',
+    //     url: 'https://www.hivehome.com/my/personal_info'
+    // },
+    // {
+    //     pageName: 'Hive-Basket',
+    //     url: 'https://www.hivehome.com/basket'
+    // },
+    // {
+    //     pageName: 'Hive-EV',
+    //     url: 'https://www.hivehome.com/shop/electric-vehicles'
+    // },
+    // {
+    //     pageName: 'Hive-EV-Charging',
+    //     url: 'https://www.hivehome.com/shop/electric-vehicles/hive-electric-vehicle-charging'
+    // },
+    // {
+    //     pageName: 'Hive-Addresses',
+    //     url: 'https://www.hivehome.com/my/addresses'
+    // },
+    // {
+    //     pageName: 'Hive-Orders-Returns',
+    //     url: 'https://www.hivehome.com/my/orders-and-returns'
+    // },
+    // {
+    //     pageName: 'Hive-Appointments',
+    //     url: 'https://www.hivehome.com/my/appointments'
+    // },
+    // {
+    //     pageName: 'Hive-Subscription',
+    //     url: 'https://www.hivehome.com/my/subscriptions'
+    // },
+    // {
+    //     pageName: 'Hive-PaymentMethods',
+    //     url: 'https://www.hivehome.com/my/payment_methods'
+    // },
+    // {
+    //     pageName: 'Hive-Invoices',
+    //     url: 'https://www.hivehome.com/my/invoices'
+    // },
+    // {
+    //     pageName: 'Hive-Refer-A-Friend',
+    //     url: 'https://www.hivehome.com/refer-a-friend'
+    // },
+    // {
+    //     pageName: 'Hive-Discover',
+    //     url: 'https://www.hivehome.com/discover-hive'
+    // }
 ]
 
-
 export { urlList }
+
+
+
+
+
+
+
+
+
+
+
+

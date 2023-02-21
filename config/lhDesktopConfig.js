@@ -14,7 +14,7 @@ const lhDesktopConfig = {
           },
         "screenEmulation": {
             "mobile": false,
-            "width": 1280,
+            "width": 1366,
             "height": 960,
             "deviceScaleFactor": 1,
             "disabled": false
