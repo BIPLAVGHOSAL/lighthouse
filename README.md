@@ -7,8 +7,7 @@ Using Lighthouse programatically
 ```
 
 ## Update the URLs to be tested in urlList/urls.js file.
-## Pass the Only categories in .env file with comma seperated.
-## Supported : accessibility,best-practices,performance,pwa,seo
+## Pass the Only categories in .env file with comma seperated, Supported : accessibility,best-practices,performance,pwa,seo
 ### Note: If we don't pass any categories it will test for everything in the provided URLs.
 
 ```
